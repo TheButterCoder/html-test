@@ -1,34 +1,5 @@
-.nav a {
-  color: #5a5a5a;
-  font-size: 24px;
-  Font-size: 20;
-  font-weight: bold;
-  padding-top: 14;
-  padding-bottom: 14;
-  padding-left: 10;
-  padding-right: 10;
-  text-transform: uppercase;
-}
-.jumbotron {
-    font-family: shift, sans-serif;
-    background-image: url('https://cdn1.vox-cdn.com/uploads/chorus_asset/file/2886326/atlantis-bahamas.0.jpg');
-    height: 500px;
-    color: #fff;
-    font-size: 60;
-    font-weight: bold;
-}
-.jumbotron p {
-        color: #fff;
-        font-size: 20px;
-}
-.learn-more{
-    background-color: #f7f7f7;
-}
-.learn-more a{
-    color: #00b0ff;
-}
-.learn-more h3 {
-    font-family: shift, sans-serif;
-    font-size: 18;
-    font-weight: bold;
+.Style {
+backround-image: url('http://xiostorage.com/wp-content/uploads/2015/10/test.png');
+font-style:Arial;
+font-size:100px;
 }
